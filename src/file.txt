@@ -1,0 +1,4 @@
+BRDC D:/data/fusion_nav_data/HH0012.2020330binRTCM3                2
+BRDC D:/data/fusion_nav_data/HH0013.2020330binRTCM3                2
+
+OUT  D:/data/fusion_nav_data/IGSN/   2
