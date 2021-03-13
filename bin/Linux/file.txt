@@ -1,0 +1,4 @@
+BRDC ./RTCM3/HH0012.2020330binRTCM3                2
+BRDC ./RTCM3/HH0013.2020330binRTCM3                2
+
+OUT  ./Result/   2
